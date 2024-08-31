@@ -102,7 +102,7 @@
 <body>
     <div class="container">
         <header>
-            <div class="logo">AS</div>
+            <div class="logo">KS</div>
             <nav>
                 <ul>
                     <li><a href="#about">About</a></li>
@@ -115,10 +115,10 @@
 
         <section class="hero">
             <h1>Hi, my name is</h1>
-            <h2>Akshit Sharma.</h2>
+            <h2>Krishna Sharma.</h2>
             <h3>I build things for the web.</h3>
             <p>I'm a software engineer specializing in building (and occasionally designing) exceptional digital experiences. Currently, I'm focused on building accessible, human-centered products at Upstatement.</p>
-            <a href="#" class="cta-button">Check out my course!</a>
+            <a href="#" class="cta-button">Check out my Projects!</a>
         </section>
     </div>
 </body>
